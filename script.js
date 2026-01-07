@@ -45,6 +45,8 @@ console.log("Institute:", institute);
 let num1 = 10;
 console.log("Num1:", num1);
 
+// Arithmetric operator
+
 let num2 = 5;
 console.log("Num2:", num2);
 
