@@ -54,7 +54,7 @@ console.log(firstname, lastname, age, food, job);
 // ---------- EXAMPLE 5 ----------
 // DESTRUCTURING IN FUNCTION PARAMETERS
 
-function display({ firstname, lastname }) {
+function display({ firstname, lastname,food }) {
     console.log(`name: ${firstname} ${lastname}`);
     console.log(`food ${food}`);
 }
